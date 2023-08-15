@@ -58,4 +58,7 @@ static async void Loop()
 }
 ```
 
+![image](https://github.com/DifolderyXXL/Di.ConsoleMouseInput/assets/87066000/27e14846-682e-488f-bba9-93e21a8445bb)
+
+
 <sub> Only fantasy limits you. </sub>
