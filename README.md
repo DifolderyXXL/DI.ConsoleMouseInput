@@ -29,8 +29,8 @@ Provides you with **`console api`**:
 > ***Console paint***
 
 ```c#
-using Di.Common;
-using Di.ConsoleMouseInput;
+using DiNet.Common;
+using DiNet.ConsoleMouseInput;
 
 Loop();
 while(true)
