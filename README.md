@@ -14,15 +14,15 @@ Provides you with **`mouse positions`**:
 ## WinApi Module
 
 Provides you with **`window api`**:
-* Window handle
-* Global cursor position
-* Window rect
-* Client window rect (console content rect)
+* Window handle.
+* Global cursor position.
+* Window rect.
+* Client window rect (console content rect).
 
 Provides you with **`console api`**:
-* Console window handle
-* Console window information ( offsets, win size, content size )
-* Font used by the console
+* Console window handle.
+* Console window information ( offsets, win size, content size ).
+* Font used by the console.
 
 # Here is an example of using this lib
 
